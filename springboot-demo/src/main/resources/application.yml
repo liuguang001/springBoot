@@ -1,0 +1,7 @@
+server:
+  port: 8081
+name: jack
+person:
+  name: lilei
+  age: 24
+  addr: guangdong
